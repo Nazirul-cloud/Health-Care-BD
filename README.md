@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://agitated-beaver-bc
 
 ## EXECUTIVE HEALTH CHECK UP
 You want to live healthy? We have a guideline through all the meaningful service packages.Comprehensive physical exams are essential in maintaining good health.In United Hospital, our diagnostic expertise combined with the latest technology in pathology help in determining health problems.      
-“*” Preventive Health Check-up
-“*” Screening Tests
-“*” Full body Check-up
+* Preventive Health Check-up
+* Screening Tests
+* Full body Check-up
 
 
 
