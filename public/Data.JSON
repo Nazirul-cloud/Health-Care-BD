@@ -1,0 +1,83 @@
+[
+    {
+      "code": "HCP01",
+      "package_name": "Full Body Checkup - Mini (28 Tests)",
+      "age_range": "19-30",
+      "offer" : "25%",
+      "package_rate": 160,
+      "details": "An ideal mini test which helps assess important parameters of blood.",
+      "img": "https://api.tatahealth.com/CMS/wp-content/uploads/2020/03/K1600_shutterstock_321052985-1-1024x683.jpg"
+    },
+    {
+      "code": "HCP02",
+      "package_name": "Full Body Checkup - Basic (62 Tests)",
+      "age_range": "20-40",
+      "offer" : "20%",
+      "package_rate": 260,
+      "details": "Full Body Checkup - Basic package includes Lipid, Liver, Thyroid more..",
+      "img": "https://5.imimg.com/data5/RO/XX/GLADMIN-13226431/metro-whole-body-check-500x500.png"
+    },
+    {
+      "code": "HCP03",
+      "package_name": "Full Body Checkup - Standard (65 Tests)",
+      "age_range": "25-43",
+      "offer" : "25%",
+      "package_rate": 270,
+      "details": "Tests for screening of the health status Like Lipid, Liver,Thyroid etc",
+      "img": "https://image.isu.pub/161223073816-59bc2c8245b9bcd9f725487e571e426f/jpg/page_1.jpg"
+    },
+    {
+      "code": "HCP04",
+      "package_name": "Full Body Checkup - Advanced (98 Tests)",
+      "age_range": "32-60",
+      "offer" : "20%",
+      "package_rate": 320,
+      "details": "Tests includes Cardiac Risk Markers, Complete Hemogram,Diabetics.",
+      "img": "https://assets.lybrate.com/imgs/dt/tp/f391fc1a12423f90f68dcabe472e3a18/630ee63938b666fb6cd986353aac6543/616111.jpg"
+    },
+    {
+      "code": "HCP05",
+      "package_name": "Full Body Checkup - Premium (103 Tests)",
+      "age_range": "25-50",
+      "offer" : "28%",
+      "package_rate": 350,
+      "details": "A popular body checkup spanning 103 important tests including ARTHRITIS",
+      "img": "https://www.ayushkamahealthcare.com/blog/wp-content/uploads/2020/05/full-body-checkup3.jpg"
+    },
+    {
+      "code": "HCP06",
+      "package_name": "Full Body Checkup - Master (115 Tests)",
+      "age_range": "18-59",
+      "offer" : "27%",
+      "package_rate": 380,
+      "details": "Cardiac Risk Markers, Hormone, Diabetics Iron, Kidney more..",
+      "img": "https://www.phdiagnosticcentre.com/wp-content/uploads/2018/08/ph_health_s.jpg"
+    },
+    {
+      "code": "HCP07",
+      "package_name": "AAROGYAM MASTER PLUS (139 Tests)",
+      "age_range": "19-60",
+      "offer" : "20%",
+      "package_rate": 400,
+      "details": "Arthritis, Cardiac Risk Markers, Hormone, Complete more..",
+      "img": "https://healthworldhospitals.com/wp-content/uploads/2019/09/health-check-up-packagesnew-1.jpg"
+    },
+    {
+      "code": "HCP08",
+      "package_name": "HealthyLife Mini (47 Tests)",
+      "age_range": "26-50",
+      "offer" : "21%",
+      "package_rate": 120,
+      "details": "A mini health checkup package that includes (NEW LAUNCH)",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEKzYGTnQ-WoWnRf3xCVANEluEzDZIOS3fQ&usqp=CAU"
+    },
+    {
+      "code": "HCP09",
+      "package_name": "HealthyLife Basic (57 Tests)",
+      "age_range": "24-48",
+      "offer" : "25%",
+      "package_rate": 160,
+      "details": "ests for screening of the health status Like Lipid, Liver. (NEW LAUNCH)",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4kMlkamiiBIFm4Rw15y7tzUl37bkY5lmLA&usqp=CAU"
+    }
+  ]
